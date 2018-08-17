@@ -1,0 +1,1 @@
+Create a .env file in the root directory for environment variables and secrets.

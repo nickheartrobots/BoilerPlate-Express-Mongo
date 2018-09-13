@@ -5,7 +5,7 @@ import bodyParser from 'body-parser'
 
 const App = express();
 
-// if using mongodb
+// Uncomment if using mongodb
 // mongoose.connect(process.env.MONGODB_URI, () => {
 //     console.log('Connected to MongoDB')
 // })

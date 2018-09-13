@@ -1,13 +1,7 @@
 # Boiler Plate NodeJS App
 
 ## Getting started
-To create a new project using this boiler plate app clone the git repository and delete the .git folder.
-
-Then initialize a new git repository:
-
-```
-git init
-```
+To create a new project using this boiler plate app clone the git repository.
 
 ## Install Dependencies
 
